@@ -9,5 +9,5 @@ Projets réalisés pendant la formation en IA des étudiants de l'Ecole Centrale
 Description (1 phrase)
 
 <p align="center">
-  <img src="img/placeholder.png">
+  <img src="img/placeholder.png" style="width: 400px;">
 </p>
