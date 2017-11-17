@@ -6,7 +6,7 @@ Projets réalisés pendant la formation en IA des étudiants de l'Ecole Centrale
 
 **Ernewein, Cédric**
 
-Visualisation du nombre de TGV en retard en fonction du nombre de TGV qui ont circulé, coloré en fonction de l'axe du voyage.
+Analyse de la position des exoplanètes découvertes par rapport à leur étoile
 
 <p align="center">
   <img src="img/RegTGV.png" style="width: 400px;">
