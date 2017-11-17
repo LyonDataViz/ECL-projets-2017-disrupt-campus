@@ -7,6 +7,8 @@ Projets réalisés pendant la formation en IA des étudiants de l'Ecole Centrale
 **Nom, prénom**
 
 Description (1 phrase)
+Baron-Trocellier Natan
+Analyse de la position des exoplanètes découvertes par rapport à leur étoile
 
 <p align="center">
   <img src="img/placeholder.png" style="width: 400px;">
