@@ -21,3 +21,12 @@ Deux figures représentent l'ISF en France. La première est un scatterplot de l
 <p align="center">
   <img src="img/glesaine_zoom.png" style="width: 400px;">
 </p>
+
+
+**Cosson, Adrien**
+
+Visualisation des 500 jeux vidéos les plus vendus de l'histoire, classés par année de publication et plateforme de jeu.
+
+<p align="center">
+  <img src="img/AdrienCos.png" style="width: 400px;">
+</p>
