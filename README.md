@@ -1,4 +1,4 @@
-# Rendus projets étudiants ECL Disrupt'Campus
+﻿# Rendus projets étudiants ECL Disrupt'Campus
 
 Projets réalisés pendant la formation en IA des étudiants de l'Ecole Centrale de Lyon en novembre 2017.
 
@@ -66,9 +66,12 @@ Lien : [https://clemence-ecl.github.io/Visualization_most_viewed_artists/](https
 </p>
 
 
-## 
+## Contenu de tweets
 
-**Erwan Blain**
+** Erwan Blain **
 
+Visualisation du nombre de mots par tweets, en fonction du nombre de caratères. Chaque tweet est ensuite catégorisé selon le genre de la personne qui l'a produit (homme, femme, ou brand).
 
-
+<p align="center">
+  <img src="img/Capture_EB.png" style="width: 400px;">
+</p>
