@@ -4,16 +4,16 @@ Projets réalisés pendant la formation en IA des étudiants de l'Ecole Centrale
 
 Enseignant: [Romain Vuillemot](http://romain.vuillemot.net/)
 
-## Exoplanètes
+## Régularité des TGV
 
 **Cédric Ernewein**
 
-Analyse de la position des exoplanètes découvertes par rapport à leur étoile
+Visualisation du nombre de TGV en retard en fonction du nombre de TGV qui ont circulé, coloré en fonction de l'axe du voyage.
 
 Lien: [https://cernewein.github.io/project-data-viz-tgv/](https://cernewein.github.io/project-data-viz-tgv/)
 
 <p align="center">
-  <img src="img/RegTGV.png" style="width: 400px;">
+  <img src="img/RegTGV.PNG" style="width: 400px;">
 </p>
 
 ## Étude de la répartition de l'ISF en France en 2015.
