@@ -77,3 +77,15 @@ Lien : [https://erwanblain.github.io/tweet-plot/](https://erwanblain.github.io/t
 <p align="center">
   <img src="img/Capture_EB.png" style="width: 400px;">
 </p>
+
+## Exoplanètes
+
+** Natan Baron-Trocellier **
+
+Visualisation de la position des exoplanètes découvertes depuis les années 1980 par rapport à leur étoile et la zone habitable de leur système solaire.
+
+Lien : [https://natanbt.github.io/Projet-visu-graphe-exoplanetes/](https://natanbt.github.io/Projet-visu-graphe-exoplanetes/)
+
+<p align="center">
+  <img src="img/exoplanetes.png" style="width: 400px;">
+</p>
