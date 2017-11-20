@@ -34,7 +34,7 @@ Lien: [https://glesaine.github.io/projet-visu-isf2015/](https://glesaine.github.
 
 Affichage de la déclinaison astronomique des étoiles en fonction de leur distance.
 
-Lien: [https://github.com/YannSeiller/Project_Star_visualization](https://github.com/YannSeiller/Project_Star_visualization)
+Lien: [https://yannseiller.github.io/Project_Star_visualization/](https://yannseiller.github.io/Project_Star_visualization/)
 
 <p align="center">
   <img src="img/stars_viz_YS.png" style="width: 400px;">
@@ -52,7 +52,7 @@ Lien: [https://adriencos.github.io/VideoGamesTop500/](https://adriencos.github.i
   <img src="img/AdrienCos.png" style="width: 400px;">
 </p>
 
-## 
+## Artistes avec le plus de vues sur Youtube
 
 **Lévecque Clémence**
 
@@ -68,7 +68,7 @@ Lien : [https://clemence-ecl.github.io/Visualization_most_viewed_artists/](https
 
 ## Contenu de tweets
 
-** Erwan Blain **
+**Erwan Blain**
 
 Visualisation du nombre de mots par tweets, en fonction du nombre de caratères. Chaque tweet est ensuite catégorisé selon le genre de la personne qui l'a produit (homme, femme, ou brand).
 
@@ -80,7 +80,7 @@ Lien : [https://erwanblain.github.io/tweet-plot/](https://erwanblain.github.io/t
 
 ## Exoplanètes
 
-** Natan Baron-Trocellier **
+**Natan Baron-Trocellier**
 
 Visualisation de la position des exoplanètes découvertes depuis les années 1980 par rapport à leur étoile et la zone habitable de leur système solaire.
 
